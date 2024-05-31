@@ -23,5 +23,5 @@
 #### Video link [https://youtu.be/g7VzquSga_M](https://youtu.be/g7VzquSga_M)
 # Serverga joylangan [API](https://edu-api.tohirjon.uz/swagger/index.html)
 # [Front-End](https://edu.tohirjon.uz)
-### CID data: Admin email:admin@gmail.com password:Sardor0618!
+### CD data: Admin email:admin@gmail.com password:Sardor0618!
 ###  User bemmalol register bo'lib kirorasiz
